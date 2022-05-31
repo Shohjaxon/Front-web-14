@@ -1,0 +1,21 @@
+.header {
+  background-color: #ccc;
+  /* blok elementi bo'l;gani uchun amal qilmaydi */
+  width: 100%;
+  /* blok elementi bo'l;gani uchun amal qilmaydi */
+  height: 500px;
+}
+
+.text-red {
+  color: red;
+  /* qator elementi bo'l;gani uchun amal qilmaydi */
+  width: 100%;
+  /* qator elementi bo'l;gani uchun amal qilmaydi */
+  height: 500px;
+  margin: 50px;
+  padding: 50px;
+}
+
+.footer {
+  background-color: grey;
+}

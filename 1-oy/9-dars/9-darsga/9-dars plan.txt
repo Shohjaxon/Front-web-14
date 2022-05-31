@@ -1,0 +1,21 @@
+1.
+	1. Hajm turlari Relative (px, %, em,) Absolute (sm, mm, in, pt). +++
+2. Css rang turlari. nomi bor, funksional RGBA, RGB (16lik)			+++
+
+2. Simvollar.  +++
+	html symbols
+	+++ &nbsp;  (so'zni bir qatorda saqlaydi.
+	&copy;
+	&quot; va &raquo;
+	&lt; va &gt;
+
+3. Borders      +++
+
+4. Background   +++
+
+
+
+
+
+
+

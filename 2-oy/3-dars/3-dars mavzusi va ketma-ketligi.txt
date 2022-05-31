@@ -1,0 +1,15 @@
+1.  HTML strukturasi.       +++
+2.  Title.
+3.  HTML strukturasini yaratish (*** ! > Tab  ***) ----
+4.  Darsda foydalaniladigan teglar (tag)            ----
+    1.  HEAD        +++
+    2.  BODY        +++
+    3.  H1          +++
+    4.  P           +++
+    5.  B           +++  
+    6.  br          +++
+    7.  a           +++
+8.  i               +++
+
+5.  Saytga menyu qo'shish       +++
+6.  CSS                         +++

@@ -1,0 +1,21 @@
+.header{
+background: rgb(150, 39, 39);
+width: 200px;
+}
+.content{
+background: rgb(31, 221, 66);
+}
+.content:hover{
+    background: rgb(76, 12, 196);
+}
+.text-red{
+    color: red;
+    width: 400px;
+    height: 400px;
+}
+.text-red:hover{
+    background: #000;
+}
+.footer{
+background: rgb(236, 232, 5);
+}

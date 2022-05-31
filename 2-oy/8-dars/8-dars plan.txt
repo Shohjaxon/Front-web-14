@@ -1,0 +1,52 @@
+1.HTML nima Hyper Text Markup Language - gipermatnli belgilash tili
+
+	1. Giperhavola( Гиперссылка, Hyperlink ) +++
+		1. href="olx.uz"
+		2. href="#top"
+		3. href="olx.uz" target="_blank"
+
+
+2.CSS (Cascading style sheets, uzb. Kaskadlangan stillar jadvali)
+	1. CSS nima?
+	2. Web sahifaning css bilan va csssiz farqi
+	3. CSSni HTMLga bo'g'lash yoki foydalanish. 3 usuli.
+	4. CSS sintaksisi. Selektorlar.
+		1. Tag orqali. 		h1 > 			h1{color: blue;}
+		2. ID orqali. 		id="birinchi" 		#{color:blue;}
+		3. Class orqali.	class="classnomi"	.classnomi{color: blue;
+		
+		praktika - (h3>lorem3+p>lorem)*3 , + multiple class
+
+	5.CSSda izoh (kommentariya). +++
+
+	6. Hajm turlari Relative (px, %, em,) Absolute (sm, mm, in, pt).
+	7. Css rang turlari. nomi bor, funksional RGBA, RGB (16lik)
+
+	8. Display. ()
+		FLEXBOX.
+		https://www.w3schools.com/css/css3_flexbox_container.asp
+
+
+
+3. Developer tools. (google chrome)
+	1.	Elements.
+	2.	Console
+
+4. Simvollar.
+	html symbols
+	&nbsp;  (so'zni bir qatorda saqlaydi.
+	&copy;
+	&quot; va &raquo;
+	&lt; va &gt;
+5. Izohlar (kommentariya)
+	<!-- text, tag. -->
+
+6.	Linklar. (/, ../, #, target="_blank", id- href="#top")
+
+
+
+
+
+
+
+

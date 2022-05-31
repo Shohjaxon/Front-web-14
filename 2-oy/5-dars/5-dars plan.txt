@@ -1,0 +1,21 @@
+1. Emmet (! > TAB)					+++
+2. Lorem (Lorem*5 (* + son) qancha so'z talab qilinsa yozamiz.  ++-
+3. Onlayn redaktor: https://jsfiddle.net/						+++
+
+
+5. Teglar
+	1. Ro'yxat (ul > li (ul>li{list}*5,  ul>li{list$}*5) , (ol > li)	+++
+	( ko'p xollarda asosan sayt menyusida ham qo'llaniladi. nav tegi orqali.
+	foydalanish uchun, display-flex, justify-content-center, aic, tac lar.
+7. Simvollar.
+	html symbols
+	&nbsp;  (so'zni bir qatorda saqlaydi.
+	&copy;
+	&quot; va &raquo;
+	&lt; va &gt;
+8. Izohlar (kommentariya)
+	<!-- text, tag. -->
+9.	Linklar. (/, ../, #, target="_blank", id- href="#top")
+10.  Typing.com
+
+Uyga vazifa

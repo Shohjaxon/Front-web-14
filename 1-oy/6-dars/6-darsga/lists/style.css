@@ -1,0 +1,41 @@
+header {
+  width: 100%;
+  background: rgb(112, 110, 110);
+}
+
+header nav {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+header nav ul {
+  display: flex;
+  align-items: center;
+}
+
+header nav ul li {
+  margin-right: 15px;
+  list-style: none;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: rgb(6, 54, 8);
+  font-weight: 500;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+}
+
+main div{
+  margin: 10px;
+  background: rgb(27, 202, 70);
+  padding: 10px;
+  color: white;
+}

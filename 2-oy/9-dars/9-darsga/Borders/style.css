@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  height: 400px;
+  background: rgb(102, 87, 87);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .block {
+  width: 150px;
+  height: 150px;
+  background: rgb(255, 255, 255);
+  border: 5px solid red;
+  border-style: solid;
+  border-color: chartreuse;
+  border-width: 5px 10px 20px 30px;
+  border-top-color: red;
+
+}

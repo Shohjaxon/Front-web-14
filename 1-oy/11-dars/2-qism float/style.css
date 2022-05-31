@@ -1,0 +1,31 @@
+.block{
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    float: right;
+}
+
+.heading{
+    border: 1px solid red;
+    overflow: hidden;
+}
+
+.footer{
+    height: 50px;
+    background: #000;
+    clear: both;
+}
+
+
+.menu_link{
+    color: red;
+}
+
+.menu_link:hover{
+    color: black;
+}
+
+.menu_link:active{
+    color: aqua;
+}
+

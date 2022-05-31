@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.block {
+  background: rgb(22, 128, 204);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.block .white,
+.block .black {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.block .card {
+  width: 100px;
+  height: 100px;
+  background: #ffffff;
+}
+.block .white .card:nth-child(even) {
+  background: #420404;
+}
+.block .black .card:nth-child(odd) {
+  background: #420404;
+}
+.card{
+  margin: 5px;
+}

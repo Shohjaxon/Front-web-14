@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.block{
+    background: rgb(42, 41, 41);
+    display: flex;
+}
+
+.block .box{
+    width: 300px;
+    height: 300px;
+    background: rgb(164, 59, 59);
+    margin: 20px;
+}
+
+/* .block .box:first-child{
+    background: rgb(13, 108, 224);
+} */
+
+/* .block .box:last-child{
+    background: rgb(13, 108, 224);
+} */
+
+/* .block .box:nth-child(3){
+    background: rgb(13, 108, 224);
+} */
+
+/* .block .box:nth-child(odd){
+    background: rgb(13, 108, 224);
+} */
+
+.block .box:nth-child(even){
+    background: rgb(13, 108, 224);
+}

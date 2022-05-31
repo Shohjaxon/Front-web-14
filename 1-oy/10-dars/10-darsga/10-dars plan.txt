@@ -1,0 +1,15 @@
+1. Shriftlar	+++
+	Font-family: "Times New Roman", serif, Verdana;
+	Font-style : italic (oblique | normal | bold)
+	Font-weight: bold (bolder | lighter | 200 )
+	Font-variant: small-caps;
+	Font-size: 20px;
+
+Asosiy Teglar (div, span) 	+++
+	1. Blok va qator elementlar. +++
+		1. Blok elementlar ( div, form , h1, p, table, ul)
+		2. Qator elementlar (span, a, i, strong)
+
+3. Hover.
+	.selector:hover
+

@@ -1,0 +1,21 @@
+1.Formalar (form)
+
+3. Simvollar.
+	html symbols
+	&nbsp;  (so'zni bir qatorda saqlaydi.
+	&copy;
+	&quot; va &raquo;
+	&lt; va &gt;
+
+4. Izohlar (kommentariya)
+	<!-- text, tag. -->
+
+5.	Linklar. (/, ../, #, target="_blank", id- href="#top")
+
+
+6.html nima Hyper Text Markup Language - gipermatn belgilash tili
+7.css Cascading style sheets, uzb. Kaskadlangan stillar jadvali)
+
+
+
+

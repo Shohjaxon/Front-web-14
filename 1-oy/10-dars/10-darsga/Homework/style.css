@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+header {
+  height: 70px;
+  /* background: rgba(195, 3, 3, 0.343); */
+  background: #000;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .logo img {
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+header nav ul {
+  display: flex;
+}
+
+header nav ul li {
+  margin-right: 15px;
+  list-style: none;
+}
+
+header nav ul li a {
+  font-size: 18px;
+  text-decoration: none;
+  /* color: rgb(255, 255, 255); */
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+}
+
+main .banner .fixedimg {
+  background: #000 url(./img/11111.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main .banner .fixedimg h1,
+main .banner .fixedimg p {
+  color: white;
+  margin: 5px;
+}
+
+main section.news-section{
+  padding: 20px;
+  text-align: center;
+  background: rgb(30, 30, 31);
+  color: white;
+}
+main .news {
+  
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+main .news .card {
+  width: 300px;
+  height: 200px;
+  background: rgb(20, 104, 207);
+  margin: 10px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 3px solid white;
+}
+
+main .news .card:hover{
+  background: rgb(58, 129, 216);
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+main .news .card h3 {
+  color: white;
+  margin: 5px;
+  font-size: 20px;
+}
+
+main .news .card p {
+  color: azure;
+  margin: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+
+main .news .card a {
+  background: #000;
+  border-radius: 15px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+
+main .news .card a:hover{
+  background: white;
+  color: black;
+
+}
+
+footer {
+  height: 70px;
+  background: #000;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+
+footer ul {
+  display: flex;
+}
+footer ul li {
+  margin-right: 15px;
+  list-style: none;
+}
+
+
+footer ul li a {
+  font-size: 18px;
+  text-decoration: none;
+  /* color: rgb(255, 255, 255); */
+  color: rgb(1, 2, 2);
+  font-weight: 700;
+  color: white;
+
+}

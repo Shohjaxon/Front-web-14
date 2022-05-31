@@ -1,0 +1,44 @@
+body{
+    background-color: darkseagreen;
+}
+header{
+    background-color: rgb(58, 56, 56);
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+header a{
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+main{
+    background-color: rgb(51, 50, 47);
+    text-align: center;
+    padding: 15px;
+}
+
+main .info {
+    border: 1px solid red; 
+    background-color: aqua;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+main h1{
+    color: white;
+}
+
+main .about{
+    width: 400px;
+    background-color: rgb(131, 125, 119);
+}
+
+.footer {
+    background-color: rgb(58, 56, 56);
+    height: 50px;
+}

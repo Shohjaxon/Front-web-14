@@ -1,0 +1,16 @@
+.container {
+  background: rgb(14, 207, 46);
+  display: flex;
+  /* justify-content: center; */
+  /* ctrl + / */
+  /* justify-content: space-around; */
+  /* justify-content: space-around; */
+}
+
+.container .box {
+  background: rgb(6, 1, 1);
+  color: white;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}

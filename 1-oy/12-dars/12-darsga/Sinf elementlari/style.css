@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  background: rgb(30, 42, 30);
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.block .card {
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+  background: #fefefe;
+  font-size: 50px;
+  color: violet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .block .card:first-child {
+  background: #9f0202;
+} */
+
+/* .block .card:last-child {
+  background: #9f0202;
+} */
+
+
+/* .block .card:nth-child(4) {
+  background: #9f0202;
+} */

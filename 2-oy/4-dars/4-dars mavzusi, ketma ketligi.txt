@@ -1,0 +1,21 @@
+1.	MDN (Mozilla Developer Network) - https://developer.mozilla.org/ru/docs/Web/HTML/Element
+2.	Entity  - https://entitycode.com/
+3.	Developer options. (google chrome)
+	1.	Elements.
+	2.	Console
+	3.
+3.	Sahifa arxitekturasi.
+		1.	Atributlar.
+			1.	alt
+			2.	class
+			3.	href
+			4.	
+		2.	Teglar
+				1.	<header>
+				2.	<main>
+				3.	<section>
+				4.	<footer>
+
+4.	Typing.com
+5. Style
+	1. Matn o'lchami

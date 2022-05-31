@@ -1,0 +1,7 @@
+.menu__link:hover{
+    color: red;
+}
+
+.menu__link:active{
+    color: aqua;
+}

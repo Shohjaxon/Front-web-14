@@ -1,0 +1,23 @@
+body {
+  background: #000;
+  height: 2000px;
+}
+
+.container {
+  background: rgb(62, 63, 140);
+  width: 200px;
+  height: 500px;
+  padding: 5px;
+  background-image: url(Untitled-1.png);
+  /* background-repeat: repeat-x; */
+  background-position: center;
+  /* background-size: cover; */
+  background-attachment: fixed;
+}
+
+/* .container {
+  width: 1200px;
+  height: 200px;
+  background: #ff2 url(Untitled-1.png) top repeat-x;
+  background: #ff2 url(Untitled-1.png) bottom repeat-x;
+} */

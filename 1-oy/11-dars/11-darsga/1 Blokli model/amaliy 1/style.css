@@ -1,0 +1,31 @@
+.container{
+    background: grey;
+}
+.container .news{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.container .news .card{
+    width: 300px;
+    height: 270px;
+    background: rgb(21, 39, 21);
+    color: aliceblue;
+    margin: 20px;
+}
+.container .news .card h3{
+    margin-left: 50px;
+    margin-top: 100px;
+    color: rgb(242, 7, 81);
+    font-size: 30px;
+}
+.container .news .card p{
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+.block{
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    /* 2 */
+    float: left;
+}
+
+/* 3 */
+.heading{
+    border: 1px solid rgb(255, 0, 0);
+    /* 3 */
+    /* overflow: hidden; */
+}
+
+/* 2 */
+.footer{
+    height: 50px;
+    background-color: grey;
+    /* 4 oxirida */ 
+    /* clear: both; */
+}

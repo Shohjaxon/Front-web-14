@@ -1,0 +1,6 @@
+1. Sinf elementlari. (ota-bola, nasl)
+	:first-child (birinchi bola elementi)
+	:last-child (oxirgi bola elementi)
+	:nth-child(n) (n bola elementi) (2,4,5 7, 8 ****)
+
+2.
